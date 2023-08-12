@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/xiaomi/selene/device.mk)
 
 PRODUCT_DEVICE := selene
-PRODUCT_NAME := omni_selene
+PRODUCT_NAME := twrp_selene
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := 21061119AG
 PRODUCT_MANUFACTURER := xiaomi
