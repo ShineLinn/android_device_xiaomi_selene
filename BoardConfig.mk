@@ -110,3 +110,11 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_INCLUDE_REPACKTOOLS := true
+TW_HAS_EDL_MODE= := true
+TW_USES_LOGO := true
+TW_EXCLUDE_MTP := true
+TW_HAS_NO_RECOVERY_PARTITION := true
+TW_HAS_NO_BOOT_PARTITION := true                # To prevent /boot partition not found error
+TW_NEVER_UNMOUNT_SYSTEM := true
+TW_DEFAULT_LANGUAGE := en-US
+
